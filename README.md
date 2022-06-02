@@ -1,6 +1,6 @@
 <img src = 'https://media.giphy.com/media/FoVzfcqCDSb7zCynOp/giphy.gif' align = "right" width = 250 hight = 250>
 
-### Hi there, I'm Mahmut 👋
+### Hi there, I'm Mahmut Gemici 👋
 
 ## Machine Learning Engineer | Content Creator 🤖
 
@@ -16,12 +16,19 @@
 [youtube]: https://www.youtube.com/c/MahmutGemici
 [twitter]: https://twitter.com/mahmutgemicii
 
+
+<br />
+
+## Latest YOUTUBE Videos
+
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
+
+
 ## Latest Blog Posts
+
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
-
-
-
 
 
 
@@ -35,10 +42,6 @@
 - 📫 How to reach me: mahmut.gemici@icloud.com
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I like to snowboard although I was born and raise in Antalya/TR
--->
-
-
-
 
 
 <details>
