@@ -13,9 +13,9 @@
 <br />
 <br />
 
-[linkedin] : https://www.linkedin.com/in/mgemici/
-[youtube] : https://www.youtube.com/c/MahmutGemici
-[twitter] : https://twitter.com/mahmutgemicii
+[linkedin]: https://www.linkedin.com/in/mgemici/
+[youtube]: https://www.youtube.com/c/MahmutGemici
+[twitter]: https://twitter.com/mahmutgemicii
 
 
 
