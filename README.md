@@ -5,21 +5,14 @@
 ## Machine Learning Engineer | Content Creator 🤖
 
 ### Connect with me on
-[<img height="22" width="32" src="https://unpkg.com/simple-icons@v7/icons/linkedin.svg" align = "left" />][linkedin]
-[<img height="22" width="32" src="https://unpkg.com/simple-icons@v7/icons/youtube.svg" align = "left" />][youtube]
-[<img height="22" width="32" src="https://unpkg.com/simple-icons@v7/icons/twitter.svg" align = "left" />][twitter]
-
-<br />
-<br />
-
 [linkedin]: https://www.linkedin.com/in/mgemici/
 [youtube]: https://www.youtube.com/c/MahmutGemici
 [twitter]: https://twitter.com/mahmutgemicii
-
-
+[<img height="22" width="32" src="https://unpkg.com/simple-icons@v7/icons/linkedin.svg" align = "left" />][linkedin]
+[<img height="22" width="32" src="https://unpkg.com/simple-icons@v7/icons/youtube.svg" align = "left" />][youtube]
+[<img height="22" width="32" src="https://unpkg.com/simple-icons@v7/icons/twitter.svg" align = "left" />][twitter]
 <br />
-
-## Latest YOUTUBE Videos
+## Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
 <!-- YOUTUBE:END -->
