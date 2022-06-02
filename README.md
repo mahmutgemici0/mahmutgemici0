@@ -5,7 +5,7 @@
 ## Machine Learning Engineer | Content Creator 🤖
 
 About me:
-🔭 I’m currently working on Airport Region Detection from Satellite Imagery
+- 🔭 I’m currently working on Airport Region Detection from Satellite Imagery
 - 🌱 I’m currently learning object detection, image segmentation
 - 💬 Ask me about study abroad, machine learning.
 - 📫 How to reach me: mahmut.gemici@icloud.com
