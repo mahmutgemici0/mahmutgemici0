@@ -4,6 +4,14 @@
 
 ## Machine Learning Engineer | Content Creator 🤖
 
+About me:
+🔭 I’m currently working on Airport Region Detection from Satellite Imagery
+- 🌱 I’m currently learning object detection, image segmentation
+- 💬 Ask me about study abroad, machine learning.
+- 📫 How to reach me: mahmut.gemici@icloud.com
+- 😄 Pronouns: he/him/his
+- ⚡ Fun fact: I like to snowboard although I was born and raise in Antalya/TR
+
 ### Connect with me on
 [linkedin]: https://www.linkedin.com/in/mgemici/
 [youtube]: https://www.youtube.com/c/MahmutGemici
@@ -34,12 +42,7 @@
 
 
 
-🔭 I’m currently working on Airport Region Detection from Satellite Imagery
-- 🌱 I’m currently learning object detection, image segmentation
-- 💬 Ask me about study abroad, machine learning.
-- 📫 How to reach me: mahmut.gemici@icloud.com
-- 😄 Pronouns: he/him/his
-- ⚡ Fun fact: I like to snowboard although I was born and raise in Antalya/TR
+
 
 
 <details>
