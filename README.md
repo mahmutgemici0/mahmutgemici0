@@ -16,10 +16,14 @@
 [youtube]: https://www.youtube.com/c/MahmutGemici
 [twitter]: https://twitter.com/mahmutgemicii
 
-<details>
-<summary>:bulb: GitHub Stats </summary>
-<img src ="https://github-readme-stats.vercel.app/api?username=mahmutgemici0">
-</details>
+## Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+
+
+
+
 
 
 
@@ -32,3 +36,13 @@
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I like to snowboard although I was born and raise in Antalya/TR
 -->
+
+
+
+
+
+<details>
+<summary>:bulb: GitHub Stats </summary>
+<img src ="https://github-readme-stats.vercel.app/api?username=mahmutgemici0">
+</details>
+<br />
