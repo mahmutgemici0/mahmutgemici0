@@ -4,8 +4,7 @@
 
 ## Machine Learning Engineer | Content Creator 🤖
 
-### Connect with me
-
+### Connect with me on
 [<img height="22" width="32" src="https://unpkg.com/simple-icons@v7/icons/linkedin.svg" align = "left" />][linkedin]
 [<img height="22" width="32" src="https://unpkg.com/simple-icons@v7/icons/youtube.svg" align = "left" />][youtube]
 [<img height="22" width="32" src="https://unpkg.com/simple-icons@v7/icons/twitter.svg" align = "left" />][twitter]
@@ -17,6 +16,10 @@
 [youtube]: https://www.youtube.com/c/MahmutGemici
 [twitter]: https://twitter.com/mahmutgemicii
 
+<details>
+<summary>:bulb: GitHub Stats </summary>
+<img src ="https://github-readme-stats.vercel.app/api?username=mahmutgemici0">
+</details>
 
 
 
