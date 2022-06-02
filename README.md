@@ -22,6 +22,11 @@
 ## Latest YOUTUBE Videos
 
 <!-- YOUTUBE:START -->
+- [Change of Status &lpar;J1-F1&rpar; Hakkinda Her Sey |  Work and traveldan Dil okuluna Gecis](https://www.youtube.com/watch?v=JnvUD7vFK4U)
+- [Computer Vision in 2 Minutes : OpenCv 101 - Image Rotation](https://www.youtube.com/watch?v=_iKvvdIaD1M)
+- [Computer Vision in 2 Minutes : OpenCv 101 - Image Annotation](https://www.youtube.com/watch?v=ndO8rwDTKs8)
+- [Computer Vision in 2 Minutes : OpenCv 101 - Image Settings](https://www.youtube.com/watch?v=qcCDvuUDJsk)
+- [Computer Vision in 2 Minutes : OpenCv 101 - Image Load/Write](https://www.youtube.com/watch?v=Z2OQDb6Vw_0)
 <!-- YOUTUBE:END -->
 
 
