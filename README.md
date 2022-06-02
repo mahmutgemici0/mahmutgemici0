@@ -1,12 +1,26 @@
-<img src = 'https://media.giphy.com/media/FoVzfcqCDSb7zCynOp/giphy.gif' align = "right" width = 400 hight = 250>
+<img src = 'https://media.giphy.com/media/FoVzfcqCDSb7zCynOp/giphy.gif' align = "right" width = 250 hight = 250>
 
 ### Hi there, I'm Mahmut 👋
 
 ## Machine Learning Engineer | Content Creator 🤖
-<!--
-**mahmutgemici0/mahmutgemici0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:-->
+### Connect with me
+
+[<img height="22" width="32" src="https://unpkg.com/simple-icons@v7/icons/linkedin.svg" align = "left" />][linkedin]
+[<img height="22" width="32" src="https://unpkg.com/simple-icons@v7/icons/youtube.svg" align = "left" />][youtube]
+[<img height="22" width="32" src="https://unpkg.com/simple-icons@v7/icons/twitter.svg" align = "left" />][twitter]
+
+<br />
+<br />
+
+[linkedin] : https://www.linkedin.com/in/mgemici/
+[youtube] : https://www.youtube.com/c/MahmutGemici
+[twitter] : https://twitter.com/mahmutgemicii
+
+
+
+
+
 
 🔭 I’m currently working on Airport Region Detection from Satellite Imagery
 - 🌱 I’m currently learning object detection, image segmentation
