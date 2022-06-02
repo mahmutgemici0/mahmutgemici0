@@ -30,20 +30,10 @@ About me:
 - [Computer Vision in 2 Minutes : OpenCv 101 - Image Load/Write](https://www.youtube.com/watch?v=Z2OQDb6Vw_0)
 <!-- YOUTUBE:END -->
 
-
 ## Latest Blog Posts
 
 <!-- MEDIUM-STORY-LIST:START -->
 <!-- MEDIUM-STORY-LIST:END -->
-
-
-
-
-
-
-
-
-
 
 <details>
 <summary>:bulb: GitHub Stats </summary>
