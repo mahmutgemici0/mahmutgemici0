@@ -2,15 +2,16 @@
 
 ### Hi there, I'm Mahmut Gemici 👋
 
-## Machine Learning Engineer | Content Creator 🤖
+## Data Scientist @ <img src="https://encore.org/wp-content/uploads/2021/07/logo-classicblue-3000px-480x195.png" width="48" height="19.5">
+
 
 About me:
-- 🔭 I’m currently working on Airport Region Detection from Satellite Imagery
-- 🌱 I’m currently learning object detection, image segmentation
+- 🔭 I’m currently working on Machine learning-Based Defect Classification and Detection in SEM Images
+- 🌱 I’m currently learning FastAPI, Docker
 - 💬 Ask me about study abroad, machine learning.
 - 📫 How to reach me: mahmut.gemici@icloud.com
 - 😄 Pronouns: he/him/his
-- ⚡ Fun fact: I like to snowboard although I was born and raise in Antalya/TR
+- ⚡ Fun fact: I love 3D Printing as much as I love coding :)
 
 ### Connect with me on
 [linkedin]: https://www.linkedin.com/in/mgemici/
