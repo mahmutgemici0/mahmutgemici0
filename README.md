@@ -34,6 +34,7 @@ About me:
 ## Latest Blog Posts
 
 <!-- MEDIUM-STORY-LIST:START -->
+- [initial post](https://medium.com/@mahmutgemici7/initial-post-4d81db92bec6?source=rss-aaef8829e301------2)
 <!-- MEDIUM-STORY-LIST:END -->
 
 <details>
